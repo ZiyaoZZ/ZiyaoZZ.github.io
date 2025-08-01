@@ -10,6 +10,8 @@ I am a Ph.D. student at University of Texas at Austin working with [Jarrod Lewis
 I completed my B.S. at Central China Normal University, and my M.S. at Lehigh University, where I worked with [Nancy Carlisle](https://sites.google.com/lehigh.edu/carlislelab/people).
 <br>
 [[Curriculum Vitae](https://docs.google.com/document/d/1miv7gk3GBZa9ijNaz-MLPuPNCxXFgBmU/edit?usp=sharing&ouid=102075147007111967242&rtpof=true&sd=true)]
+[[Google Scholar](https://scholar.google.com/citations?user=IH-ZL5UAAAAJ&hl=en)]
+[[Research Gate](https://www.researchgate.net/profile/Ziyao-Zhang-11)]
 <br><br><br>
 
 
@@ -42,3 +44,55 @@ I completed my B.S. at Central China Normal University, and my M.S. at Lehigh Un
   <br>
   [[pdf](https://journals.sagepub.com/doi/10.1177/09567976251331039)] 
 
+### 2024
+
+- **Integration of history information drives serial dependence and stabilizes working memory representations**
+  <br>
+  **Zhang, Z.**, & Lewis-Peacock, J.A. (2024) _Journal of Neuroscience_
+  <br>
+  [[pdf](https://www.jneurosci.org/content/44/32/e2399232024)]
+
+### 2023
+
+- **Bend but don’t break: Prioritization protects working memory from displacement but leaves it vulnerable to distortion from distraction**
+  <br>
+  **Zhang, Z.**, & Lewis-Peacock, J.A. (2023) _Cognition_
+  <br>
+  [[pdf](https://doi.org/10.1016/j.cognition.2023.105574)]
+
+- **Explicit attentional goals unlock implicit spatial statistical learning**
+  <br>
+  **Zhang, Z.**, & Carlisle, N.B. (2023) _Journal of Experimental Psychology: General_
+  <br>
+  [[pdf](https://doi.org/10.1037/xge0001368)]
+
+- **Prioritization sharpens working memories but does not protect them from distraction**
+  <br>
+  **Zhang, Z.**, & Lewis-Peacock, J.A. (2023) _Journal of Experimental Psychology: General_
+  <br>
+  [[pdf](https://doi.org/10.1037/xge0001309)]
+
+### 2022
+
+- **Assessing recoding accounts of negative attentional templates using behavior and eye tracking**
+  <br>
+  **Zhang, Z.**, & Carlisle, N.B. (2022) _Journal of Experimental Psychology: Learning, Memory, and Cognition_
+  <br>
+  [[pdf](https://doi.org/10.1037/xlm0001183)]
+
+- **Benefits from negative templates in easy and difficult search depend on rapid distractor rejection and enhanced guidance**
+  <br>
+  **Zhang, Z.**, Sahatdjian, R., & Carlisle, N.B. (2023) _Vision Research_
+  <br>
+  [[pdf](https://doi.org/10.1016/j.visres.2022.108031)]
+
+### 2020
+
+- **Probing early attention following negative and positive templates**
+  <br>
+  **Zhang, Z.**, Gapelin, N., & Carlisle, N.B. (2020) _Attention, Perception, & Psychophysics_
+  <br>
+  [[pdf](https://doi.org/10.3758/s13414-019-01864-8)]
+
+
+  
