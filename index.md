@@ -35,7 +35,7 @@ I completed my B.S. at Central China Normal University, and my M.S. at Lehigh Un
 
 - **Maintenance suppression enhances subsequent associative learning**
   <br>
-  **Zhang, Z.**, & Lewis-Peacock, J.A. (In Press) _Proceedings of the National Academy of Sciences_
+  **Zhang, Z.**, & Lewis-Peacock, J.A. (2025) _Proceedings of the National Academy of Sciences_
   <br>
   [[pdf](https://www.pnas.org/doi/10.1073/pnas.2512322122)]
 
