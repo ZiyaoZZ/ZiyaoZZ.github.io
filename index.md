@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## *How do we manage distractions?*
-My research explores the interactions between cognitive control and memory, using a combination of empirical experiments (e.g., psychophysics, fMRI, EEG) and computational modelling.
+My research explores the interactions between cognitive control and memory, using a combination of cognitive neuroscience techniques (EEG & fMRI) and computational modelling.
 <br><br>
 I am a Ph.D. student at University of Texas at Austin working with [Jarrod Lewis-Peacock](https://www.lewpealab.org/).
 <br><br>
