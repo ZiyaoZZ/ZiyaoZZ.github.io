@@ -5,7 +5,7 @@ layout: homepage
 ## *How do we manage distractions?*
 My research explores the interactions between cognitive control and memory, using a combination of cognitive neuroscience techniques (EEG & fMRI) and computational modelling.
 <br><br>
-I am a Ph.D. student at University of Texas at Austin working with [Jarrod Lewis-Peacock](https://www.lewpealab.org/).
+I am a [Harrington Fellow] (https://harrington.utexas.edu/graduate-fellows-program) at University of Texas at Austin working with [Jarrod Lewis-Peacock](https://www.lewpealab.org/).
 <br><br>
 I completed my B.S. at Central China Normal University, and my M.S. at Lehigh University, where I worked with [Nancy Carlisle](https://sites.google.com/lehigh.edu/carlislelab/people).
 <br>
