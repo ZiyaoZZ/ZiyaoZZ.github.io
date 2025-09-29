@@ -83,7 +83,7 @@ I completed my B.S. at Central China Normal University, and my M.S. at Lehigh Un
 
 - **Benefits from negative templates in easy and difficult search depend on rapid distractor rejection and enhanced guidance**
   <br>
-  **Zhang, Z.**, Sahatdjian, R., & Carlisle, N.B. (2023) _Vision Research_
+  **Zhang, Z.**, Sahatdjian, R., & Carlisle, N.B. (2022) _Vision Research_
   <br>
   [[pdf](https://doi.org/10.1016/j.visres.2022.108031)]
 
