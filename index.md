@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## *How do we manage distractions?*
+## *How do we manage interference?*
 My research explores the interactions between cognitive control and memory, using a combination of cognitive neuroscience techniques (EEG & fMRI) and computational modelling.
 <br><br>
 I am a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fellows-program) at University of Texas at Austin working with [Jarrod Lewis-Peacock](https://www.lewpealab.org/).
@@ -16,6 +16,11 @@ I completed my B.S. at Central China Normal University, and my M.S. at Lehigh Un
 
 
 ## Preprints
+- **Rapid inversion of singleton distractor representations underlies learned attentional suppression**
+  <br>
+  **Zhang, Z.**, & Lewis-Peacock, J.A.
+  <br>
+  [[preprint](https://www.biorxiv.org/content/10.1101/2025.10.08.680699v1)]
 
 - **The consequences of strategic prioritization in working memory**
   <br>
