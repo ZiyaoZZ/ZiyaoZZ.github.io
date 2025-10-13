@@ -26,7 +26,7 @@ I completed my B.S. at Central China Normal University, and my M.S. at Lehigh Un
   <br>
   Vergauwe, E., Hautekiet, C., **Zhang, Z.**, & Lewis-Peacock, J.A.
   <br>
-  [[preprint](https://osf.io/preprints/psyarxiv/zctew_v1)]
+  [[preprint](https://osf.io/preprints/psyarxiv/4a2bu_v1)]
  
 
 
@@ -48,7 +48,7 @@ I completed my B.S. at Central China Normal University, and my M.S. at Lehigh Un
   <br>
   **Zhang, Z.** & Lewis-Peacock, J.A. (2025) _Psychological Science_
   <br>
-  [[pdf](https://journals.sagepub.com/doi/10.1177/09567976251331039)] 
+  [[pdf](https://journals.sagepub.com/doi/10.1177/09567976251331039)][[preprint](https://osf.io/preprints/psyarxiv/zctew_v1)]
 
 ### 2024
 
