@@ -3,7 +3,8 @@ layout: homepage
 ---
 
 ## *How do we manage interference?*
-My research explores the interactions between cognitive control and memory, using a combination of cognitive neuroscience techniques (EEG & fMRI) and computational modelling.
+I study how interference occurs, and how the brain resolves it. I use a combination of cognitive neuroscience techniques (EEG & fMRI) and computational modelling.
+My earlier work focused on how attention can be diverted away from distractors, and my recent research examines how working memory supports distraction-resilient behavior.
 <br><br>
 I am a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fellows-program) at University of Texas at Austin working with [Jarrod Lewis-Peacock](https://www.lewpealab.org/).
 <br><br>
