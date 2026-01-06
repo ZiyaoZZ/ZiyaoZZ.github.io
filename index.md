@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## How do we generate flexible, goal-directed behavior?*
+## How do we generate flexible, goal-directed behavior? ##
 I study how cognitive control and working memory support flexible behavior in dynamic environments. I use a combination of cognitive neuroscience techniques (EEG & fMRI) and computational modelling.
 
 My earlier work during my master’s training focused on how attention can be directed away from distractors, while my graduate research examined how working memory supports distraction-resilient behavior. My ongoing work builds on these foundations to investigate what algorithms and representations give rise to flexible, adaptive behavior in dynamic environments with changing demands.
