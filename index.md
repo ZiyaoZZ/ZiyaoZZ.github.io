@@ -2,13 +2,14 @@
 layout: homepage
 ---
 
-## *How do we manage interference?*
-I study how interference occurs, and how the brain resolves it. I use a combination of cognitive neuroscience techniques (EEG & fMRI) and computational modelling.
-My earlier work focused on how attention can be diverted away from distractors, and my recent research examines how working memory supports distraction-resilient behavior.
+## How do we generate flexible, goal-directed behavior?*
+I study how cognitive control and working memory support flexible behavior in dynamic environments. I use a combination of cognitive neuroscience techniques (EEG & fMRI) and computational modelling.
+
+My earlier work during my master’s training focused on how attention can be directed away from distractors, while my graduate research examined how working memory supports distraction-resilient behavior. My ongoing work builds on these foundations to investigate what algorithms and representations give rise to flexible, adaptive behavior in dynamic environments with changing demands.
 <br><br>
-I am a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fellows-program) at University of Texas at Austin working with [Jarrod Lewis-Peacock](https://www.lewpealab.org/).
+I am a postdoctoral fellow at University of California, Berkeley, working with [Amitai Shenhav](https://www.shenhavlab.org/).
 <br><br>
-I completed my B.S. at Central China Normal University, and my M.S. at Lehigh University, where I worked with [Nancy Carlisle](https://sites.google.com/lehigh.edu/carlislelab/people).
+I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fellows-program) at University of Texas at Austin working with [Jarrod Lewis-Peacock](https://www.lewpealab.org/). I completed my B.S. at Central China Normal University, and my M.S. at Lehigh University, where I worked with [Nancy Carlisle](https://sites.google.com/lehigh.edu/carlislelab/people).
 <br>
 [[Curriculum Vitae](https://docs.google.com/document/d/1miv7gk3GBZa9ijNaz-MLPuPNCxXFgBmU/edit?usp=sharing&ouid=102075147007111967242&rtpof=true&sd=true)]
 [[Google Scholar](https://scholar.google.com/citations?user=IH-ZL5UAAAAJ&hl=en)]
