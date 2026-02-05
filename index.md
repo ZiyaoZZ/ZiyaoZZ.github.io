@@ -18,11 +18,6 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
 
 
 ## Preprints
-- **Rapid inversion of singleton distractor representations underlies learned attentional suppression**
-  <br>
-  **Zhang, Z.**, & Lewis-Peacock, J.A.
-  <br>
-  [[preprint](https://www.biorxiv.org/content/10.1101/2025.10.08.680699v1)]
 
 - **The consequences of strategic prioritization in working memory**
   <br>
@@ -37,6 +32,13 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
 
 
 ## Journal Publications
+### 2026
+
+- **Rapid inversion of singleton distractor representations underlies learned attentional suppression**
+  <br>
+  **Zhang, Z.**, & Lewis-Peacock, J.A. (In press) _Journal of Neuroscience_
+  <br>
+  [[preprint](https://www.biorxiv.org/content/10.1101/2025.10.08.680699v1)]
 
 ### 2025
 
