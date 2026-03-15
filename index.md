@@ -25,7 +25,7 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
   <br>
   [[preprint](https://osf.io/preprints/psyarxiv/4a2bu_v1)]
 
- ## Under review
+## Under review
 - **Neural distinctions between social and non-social reward anticipation: an examination of activation magnitude,        representational patterns, individual differences, and functional connectivity**
   <br>
   Jiang, Y., **Ziyao, Z.**, Khader, A., Church, J., Lewis-Peacock, J.A., Beer, J.,
