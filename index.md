@@ -33,9 +33,9 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
   
 - **Temporal expectation triggers competition in working memory that leads to forgetting**
   <br>
-  Duan, Z.(\*), **Ziyao, Z.(\*)**, & Lewis-Peacock, J. A.
+  Duan, Z.\†, **Ziyao, Z.\†**, & Lewis-Peacock, J. A.
   <br>
-  <span style="font-size:0.85em;">(*) indicates co–first authors</span>
+  <span style="font-size:0.85em;"> † indicates co–first authors</span>
   <br>
 
 
