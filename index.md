@@ -26,11 +26,11 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
   [[preprint](https://osf.io/preprints/psyarxiv/4a2bu_v1)]
 
  ## Under review
-  - **Neural distinctions between social and non-social reward anticipation: an examination of activation magnitude,        representational patterns, individual differences, and functional connectivity**
+- **Neural distinctions between social and non-social reward anticipation: an examination of activation magnitude,        representational patterns, individual differences, and functional connectivity**
   <br>
   Jiang, Y., **Ziyao, Z.**, Khader, A., Church, J., Lewis-Peacock, J.A., Beer, J.,
   <br>
- - **Temporal expectation triggers competition in working memory that leads to forgetting**
+- **Temporal expectation triggers competition in working memory that leads to forgetting**
   <br>
   Duan, Z.*, **Ziyao, Z.***, & Lewis-Peacock, J.A.
   <span style="font-size:0.85em;">* indicates co–first authors</span>
