@@ -18,7 +18,12 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
 
 
 ## Preprints
-
+- **Working memory constraints on replanning following distraction**
+  <br>
+  **Ziyao, Z.**, & Lewis-Peacock, J.A.
+  <br>
+  [[preprint](https://osf.io/preprints/psyarxiv/x2rdc_v1)]
+  
 - **The consequences of strategic prioritization in working memory**
   <br>
   Vergauwe, E., Hautekiet, C., **Zhang, Z.**, & Lewis-Peacock, J.A.
@@ -28,7 +33,7 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
 ## Under review
 - **Neural distinctions between social and non-social reward anticipation: an examination of activation magnitude,        representational patterns, individual differences, and functional connectivity**
   <br>
-  Jiang, Y., **Ziyao, Z.**, Khader, A., Church, J., Lewis-Peacock, J.A., Beer, J.,
+  Jiang, Y., **Ziyao, Z.**, Khader, A., Church, J., Lewis-Peacock, J.A., Beer, J.
   <br>
   
 - **Temporal expectation triggers competition in working memory that leads to forgetting**
