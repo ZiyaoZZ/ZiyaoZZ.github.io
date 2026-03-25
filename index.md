@@ -50,7 +50,8 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
 
 - **The consequences of strategic prioritization in working memory**
   <br>
-  Vergauwe, E., Hautekiet, C., **Zhang, Z.**, & Lewis-Peacock, J.A. (In Press) _Psychonomic Bulletin & Review_
+  Vergauwe, E., Hautekiet, C., **Zhang, Z.**, & Lewis-Peacock, J.A. (In Press)
+  _Psychonomic Bulletin & Review_
   <br>
   [[preprint](https://osf.io/preprints/psyarxiv/4a2bu_v1)]
 
