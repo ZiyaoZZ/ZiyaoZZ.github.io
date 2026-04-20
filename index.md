@@ -37,9 +37,14 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
   <br>
   Jiang, Y., **Ziyao, Z.**, Khader, A., Church, J., Lewis-Peacock, J.A., Beer, J.
   <br>
+
+- ** Proactive feature-specific suppression in a learned suppression task **
+  <br>
+  Tong, M., **Zhang, Z.**, Carlisle, N.B.
+  <br>
+
   
-
-
+  
 ## Journal Publications
 ### 2026
 
