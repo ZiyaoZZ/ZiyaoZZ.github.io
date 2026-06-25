@@ -18,13 +18,7 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
 
 
 ## Preprints
-- **Working memory constraints on replanning following distraction**
-  <br>
-  **Ziyao, Z.**, & Lewis-Peacock, J.A.
-  <br>
-  [[preprint](https://osf.io/preprints/psyarxiv/x2rdc_v1)]
-  
-- **Temporal expectation triggers competition in working memory that leads to forgetting**
+  - **Temporal expectation triggers competition in working memory that leads to forgetting**
   <br>
   Duan, Z.†, **Ziyao, Z.†**, & Lewis-Peacock, J. A.
   <br>
@@ -47,6 +41,12 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
   
 ## Journal Publications
 ### 2026
+
+- **Working memory constraints on replanning following distraction**
+  <br>
+  **Ziyao, Z.**, & Lewis-Peacock, J.A. (In Press) _Communications Psychology_
+  <br>
+  [[preprint](https://osf.io/preprints/psyarxiv/x2rdc_v1)]
 
 - **Rapid inversion of singleton distractor representations underlies learned attentional suppression**
   <br>
