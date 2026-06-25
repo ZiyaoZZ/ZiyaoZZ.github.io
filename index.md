@@ -50,9 +50,7 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
 
 - **Rapid inversion of singleton distractor representations underlies learned attentional suppression**
   <br>
-  **Zhang, Z.**, & Lewis-Peacock, J.A. (2026)
-  <br>
-  _Journal of Neuroscience_
+  **Zhang, Z.**, & Lewis-Peacock, J.A. (2026) _Journal of Neuroscience_
   <br>
   [[pdf](https://www.jneurosci.org/content/early/2026/02/10/JNEUROSCI.1898-25.2026)][[preprint](https://www.biorxiv.org/content/10.1101/2025.10.08.680699v1)]
 
