@@ -20,7 +20,7 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
 ## Preprints
 - **Temporal expectation triggers competition in working memory that leads to forgetting**
   <br>
-  Duan, Z.†, **Ziyao, Z.†**, & Lewis-Peacock, J. A.
+  Duan, Z.†, **Zhang, Z.†**, & Lewis-Peacock, J. A.
   <br>
   <span style="font-size:0.85em;"> † indicates co–first authors</span>
   <br>
@@ -44,7 +44,7 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
 
 - **Working memory constraints on replanning following distraction**
   <br>
-  **Ziyao, Z.**, & Lewis-Peacock, J.A. (In Press)
+  **Zhang, Z.**, & Lewis-Peacock, J.A. (In Press)
   <br>
   _Communications Psychology_
   <br>
