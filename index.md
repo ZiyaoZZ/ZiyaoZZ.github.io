@@ -27,10 +27,6 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
   [[preprint](https://www.biorxiv.org/content/10.64898/2026.03.26.714304v1)]
 
 ## Under review
-- **Neural distinctions between social and non-social reward anticipation: an examination of activation magnitude,        representational patterns, individual differences, and functional connectivity**
-  <br>
-  Jiang, Y., **Ziyao, Z.**, Khader, A., Church, J., Lewis-Peacock, J.A., Beer, J.
-  <br>
 
 - **Proactive feature-specific suppression in a learned suppression task**
   <br>
@@ -49,6 +45,12 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
   _Communications Psychology_
   <br>
   [[preprint](https://osf.io/preprints/psyarxiv/x2rdc_v1)]
+
+- **Neural distinctions between social and non-social reward anticipation: an examination of activation magnitude, representational patterns, individual differences, and functional connectivity**
+  <br>
+  Jiang, Y., **Ziyao, Z.**, Khader, A., Church, J., Lewis-Peacock, J.A., Beer, J. (In Press)
+  _Journal of Cognitive Neuroscience_
+  <br>
 
 - **Rapid inversion of singleton distractor representations underlies learned attentional suppression**
   <br>
