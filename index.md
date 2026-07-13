@@ -44,7 +44,7 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
   <br>
   _Communications Psychology_
   <br>
-  [[preprint](https://osf.io/preprints/psyarxiv/x2rdc_v1)]
+  [[pdf](https://www.nature.com/articles/s44271-026-00497-6)][[preprint](https://osf.io/preprints/psyarxiv/x2rdc_v1)]
 
 - **Neural distinctions between social and non-social reward anticipation: an examination of activation magnitude, representational patterns, individual differences, and functional connectivity**
   <br>
