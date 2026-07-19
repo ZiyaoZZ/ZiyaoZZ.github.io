@@ -40,7 +40,7 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
 
 - **Working memory constraints on replanning following distraction**
   <br>
-  **Zhang, Z.**, & Lewis-Peacock, J.A. (In Press)
+  **Zhang, Z.**, & Lewis-Peacock, J.A. (2026)
   <br>
   _Communications Psychology_
   <br>
