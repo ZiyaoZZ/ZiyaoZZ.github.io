@@ -18,6 +18,12 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
 
 
 ## Preprints
+- **Working memory adaptively recomputes plans amid distraction**
+  <br>
+  **Zhang, Z.**, & Lewis-Peacock, J. A.
+  <br>
+  [[preprint](https://www.biorxiv.org/content/10.64898/2026.08.03.742569v1.full.pdf)]
+  
 - **Temporal expectation triggers competition in working memory that leads to forgetting**
   <br>
   Duan, Z.†, **Zhang, Z.†**, & Lewis-Peacock, J. A.
