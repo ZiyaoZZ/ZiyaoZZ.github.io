@@ -58,6 +58,7 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
   <br>
   _Journal of Cognitive Neuroscience_
   <br>
+  [[pdf](https://direct.mit.edu/jocn/article-abstract/doi/10.1162/JOCN.a.2680/137959/Neural-Distinctions-between-Social-and-Nonsocial?redirectedFrom=fulltext)]
 
 - **Rapid inversion of singleton distractor representations underlies learned attentional suppression**
   <br>
