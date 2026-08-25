@@ -40,7 +40,6 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
   <br>
 
   
-  
 ## Journal Publications
 ### 2026
 
@@ -51,6 +50,15 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
   _Communications Psychology_
   <br>
   [[pdf](https://www.nature.com/articles/s44271-026-00497-6)][[preprint](https://osf.io/preprints/psyarxiv/x2rdc_v1)]
+  
+- **Orthogonal Neural Subspaces in Working Memory Circuits Support Interference Protection and Flexible Updates**
+  <br>
+  Yuezhang, L.†, **Ziyao, Z.†**, Lewis-Peacock, J.A., Wei, X.X. (2026)
+  <br>
+  <span style="font-size:0.85em;"> † indicates co–first authors</span>
+  <br>
+  _Proceedings of the Conference on Cognitive Computational Neuroscience 2026 (CCN 2026)_
+  [[pdf](https://openreview.net/pdf?id=BnpqsNjadn)]
 
 - **Neural distinctions between social and non-social reward anticipation: an examination of activation magnitude, representational patterns, individual differences, and functional connectivity**
   <br>
