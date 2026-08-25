@@ -51,7 +51,7 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
   <br>
   [[pdf](https://www.nature.com/articles/s44271-026-00497-6)][[preprint](https://osf.io/preprints/psyarxiv/x2rdc_v1)]
   
-- **Orthogonal Neural Subspaces in Working Memory Circuits Support Interference Protection and Flexible Updates**
+- **Orthogonal neural subspaces in working memory circuits support interference protection and flexible updates**
   <br>
   Yuezhang, L.†, **Ziyao, Z.†**, Lewis-Peacock, J.A., Wei, X.X. (2026)
   <br>
