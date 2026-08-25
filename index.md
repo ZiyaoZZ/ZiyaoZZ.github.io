@@ -58,6 +58,7 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
   <span style="font-size:0.85em;"> † indicates co–first authors</span>
   <br>
   _Proceedings of the Conference on Cognitive Computational Neuroscience 2026 (CCN 2026)_
+  <br>
   [[pdf](https://openreview.net/pdf?id=BnpqsNjadn)]
 
 - **Neural distinctions between social and non-social reward anticipation: an examination of activation magnitude, representational patterns, individual differences, and functional connectivity**
