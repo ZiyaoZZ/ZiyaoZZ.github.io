@@ -24,13 +24,6 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
   <br>
   [[preprint](https://www.biorxiv.org/content/10.64898/2026.08.03.742569v1.full.pdf)]
   
-- **Temporal expectation triggers competition in working memory that leads to forgetting**
-  <br>
-  Duan, Z.†, **Zhang, Z.†**, & Lewis-Peacock, J. A.
-  <br>
-  <span style="font-size:0.85em;"> † indicates co–first authors</span>
-  <br>
-  [[preprint](https://www.biorxiv.org/content/10.64898/2026.03.26.714304v1)]
 
 ## Under review
 
@@ -61,14 +54,6 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
   <br>
   [[pdf](https://openreview.net/pdf?id=BnpqsNjadn)]
 
-- **Neural distinctions between social and non-social reward anticipation: an examination of activation magnitude, representational patterns, individual differences, and functional connectivity**
-  <br>
-  Jiang, Y., **Ziyao, Z.**, Khader, A., Church, J., Lewis-Peacock, J.A., Beer, J. (In Press)
-  <br>
-  _Journal of Cognitive Neuroscience_
-  <br>
-  [[pdf](https://direct.mit.edu/jocn/article-abstract/doi/10.1162/JOCN.a.2680/137959/Neural-Distinctions-between-Social-and-Nonsocial?redirectedFrom=fulltext)]
-
 - **Rapid inversion of singleton distractor representations underlies learned attentional suppression**
   <br>
   **Zhang, Z.**, & Lewis-Peacock, J.A. (2026)
@@ -76,6 +61,24 @@ I was a [Harrington Graduate Fellow](https://harrington.utexas.edu/graduate-fell
   _Journal of Neuroscience_
   <br>
   [[pdf](https://www.jneurosci.org/content/early/2026/02/10/JNEUROSCI.1898-25.2026)][[preprint](https://www.biorxiv.org/content/10.1101/2025.10.08.680699v1)]
+  
+- **Temporal expectation triggers competition in working memory that leads to forgetting**
+  <br>
+  Duan, Z.†, **Zhang, Z.†**, & Lewis-Peacock, J. A. (In Press)
+  <br>
+  <span style="font-size:0.85em;"> † indicates co–first authors</span>
+  <br>
+  _Neuropsychologia_
+  <br>
+  [[preprint](https://www.biorxiv.org/content/10.64898/2026.03.26.714304v1)]
+
+- **Neural distinctions between social and non-social reward anticipation: an examination of activation magnitude, representational patterns, individual differences, and functional connectivity**
+  <br>
+  Jiang, Y., **Ziyao, Z.**, Khader, A., Church, J., Lewis-Peacock, J.A., Beer, J. (2026)
+  <br>
+  _Journal of Cognitive Neuroscience_
+  <br>
+  [[pdf](https://direct.mit.edu/jocn/article-abstract/doi/10.1162/JOCN.a.2680/137959/Neural-Distinctions-between-Social-and-Nonsocial?redirectedFrom=fulltext)]
 
 - **The consequences of strategic prioritization in working memory**
   <br>
